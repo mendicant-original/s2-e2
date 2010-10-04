@@ -1,0 +1,62 @@
+-- RMU SESSION 2 | PROBLEM 2
+
+If in doubt about how to submit, see SUBMISSION_GUIDELINES file.
+
+For this exercise, we'll be working with design patterns originally 
+described in the much-acclaimed "Gang of Four" book.  While this book is over 15
+years old, many of the ideas within it are still relevant to modern object 
+oriented design.  The tricky thing is that sometimes they are mis-applied, and
+often they are described with rather anemic examples that don't quite show their
+true power.
+
+Our goal will be to come up with some good Ruby examples that demonstrate how a
+given pattern can be applied in real code, while sticking to Ruby idioms.  Follow 
+the guidelines below to complete the exercise.
+
+== GUIDELINES
+
+1. Spend some time reviewing some of the classic patterns, reading at least a
+few of them before deciding to focus on any one of them.  There is a decent
+resource at: http://sourcemaking.com/design_patterns and tons of information on
+Wikipedia as well.  You can use any of the patterns that are listed at that URL,
+except for Command pattern, since we covered that in the entrance exam.
+
+2. When you find a pattern that sounds interesting to you, try to think of a
+scenario in which you could apply it in real code.  If you can come up with one,
+announce that you'll be working on this pattern on the mailing list, along with
+the scenario you plan to explore. 
+
+3. Write up some example code that demonstrates the pattern in action.  You do
+not need to build a complete application, but the example you show should have
+enough context to look and feel 'real', rather than being some contrived foo/bar
+example.  Download the PDF of my book (http://rubybestpractices.com) if you want
+some examples of how to present ideas using real or realistic code.
+
+4. Even if you're not building a complete application, stub out enough things to
+create a runnable simulation that demonstrates how your code would be used.
+Bonus points of course would be given to those who build a real app that uses
+the pattern in action.
+
+5. Feel free to help each other as much as needed to come up with the best
+possible examples.  You are encouraged to review each other's work and offer
+suggestions.
+
+== RESTRICTIONS:
+
+* I don't want more than three students to cover the same problem, so be sure to keep
+  an eye on who's working on what
+
+* Not every pattern that exists is relevant to Ruby.  Try your best to
+  choose one that is, and if you're not reasonably sure, ask your fellow 
+  students and/or me to comment on your choice.
+
+* Do not submit a Command pattern demonstration.
+
+* Do not intentionally copy a scenario you've found online. It's not a problem
+  if the example you pick happens to have been covered somewhere online before,
+  but you should not just port some example from another language into Ruby, try
+  to come up with your own use case.
+
+== QUESTIONS?
+
+Hit up the mailing list or IRC.
